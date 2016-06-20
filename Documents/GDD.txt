@@ -1,0 +1,18 @@
+High Concept:
+	A 3rd-person object-dodging game using 2 buttons, where you avoid obstacles that fly at you from a forward direction in 3 dimensions
+	
+Story:
+	
+Controls:
+	The game is controlled by pressing 2 buttons (or left/right side of screen on mobile). The left button makes player move laterally to left. Right buttom makes them move laterally to right.
+	
+Obstacles:
+	Cubes, spheres, pyramids, cones
+	
+Level Variations:
+	Inside of a tube?
+
+	
+Notes:
+	Maybe main character can be sprite, as to give the game some 2D aspects
+	Weapons?
